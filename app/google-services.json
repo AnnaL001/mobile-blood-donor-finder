@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "730512360887",
+    "firebase_url": "https://donorfinder-c5a48.firebaseio.com",
+    "project_id": "donorfinder-c5a48",
+    "storage_bucket": "donorfinder-c5a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730512360887:android:ef76ed2006502a06",
+        "android_client_info": {
+          "package_name": "edu.strathmore.lnyangon.blood_donor_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730512360887-e0f2nko0ehk7u6h0p65t90b65ku1qnfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.strathmore.lnyangon.blood_donor_finder",
+            "certificate_hash": "deddfccd42364d582524ff8851b83e4272c99c61"
+          }
+        },
+        {
+          "client_id": "730512360887-lor0ao5qm6j5ohf8liep4dmbgcgh7897.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBum7axo-xwnofWHjolWEAEUYRFbbL8H-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730512360887-lor0ao5qm6j5ohf8liep4dmbgcgh7897.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

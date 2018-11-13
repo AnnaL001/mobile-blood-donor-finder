@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recepient_type">
+        <item>@string/individual</item>
+        <item>@string/hospital</item>
+        <item>@string/bloodbank</item>
+    </string-array>
+</resources>
